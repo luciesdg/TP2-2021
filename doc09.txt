@@ -1,0 +1,93 @@
+MBP-de-lucie:TP02-2021 luciesadegmartelet$ git log
+commit 61f0073afd2b136d3935c289e78f26c893987497 (HEAD -> main, origin/main)
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 17:01:47 2021 +0100
+
+    Creation d'un doc09
+
+commit 7aa1d6c370a78a74a24acffb70b36a9301f001c6
+Author: luciesdg <77016558+luciesdg@users.noreply.github.com>
+Date:   Tue Jan 12 16:55:43 2021 +0100
+
+    Create doc08
+    
+    Et ajout de texte dedans
+
+commit 9bd79578e71702054051a35b24d5585fc09ffb3f
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:45:57 2021 +0100
+
+    Creation d'un doc07 et ajout dedansdu contenu diff
+
+commit d971d241c1fafee5407b8df64da995d8e5aca902
+Merge: c6d98f0 ce228b1
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:42:50 2021 +0100
+
+    Merge branch 'travail' into main
+
+commit c6d98f0fc10c263679bdca5ecbc842fdafabc38b
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:40:57 2021 +0100
+
+    Ajout contenu git log dans doc06
+
+commit ce0caedb1b3a7c1a783e6c0b7c99c2d44804836e
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:39:01 2021 +0100
+
+    Creation d'un doc06
+
+commit 2a78f175ca4463ea09f5cd84de58baf29df0ba07
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:38:17 2021 +0100
+
+     Ajout contenu git status dans doc05
+
+commit e23fef2cda556ad268f6c296c1f727d13f9437b4
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:35:49 2021 +0100
+
+    Creation d'un doc05
+
+commit ce228b15d180c4a71f9a1c174bc78101dccc9e39 (travail)
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 13:45:11 2021 +0100
+
+    Ajout contenu git log dans doc04
+
+commit 38157ac2c548e899b5ccd2dc31d2da4fc61175d5
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 13:40:00 2021 +0100
+
+    Creation d'un doc04
+
+commit 1d8ef00fdfe8a06c4fefc44bb68c7bc9379b28f6
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 13:38:54 2021 +0100
+
+    Ajout contenu git status dans doc03.txt
+
+commit a0aabc5e00bbeb9cf2dc649c3dc9f2ce22e1f80e
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 13:36:14 2021 +0100
+
+    Creation d'un doc03
+
+commit 3cda48cd0f7c2913f9d15fbb743dee6a3530c6f0
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 13:32:49 2021 +0100
+
+    Creation d'un doc02 et ajout de texte dedans
+
+commit 255b3a3fc84cc1c706c69cfe91073b9230bffa97
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 13:29:36 2021 +0100
+
+    Ajout de bonjour+siganture doc01
+
+commit 493624c694e76835de3f3f4c60f1d61e87430d7d
+Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+Date:   Mon Jan 11 17:14:17 2021 +0100
+
+    Add files via upload
