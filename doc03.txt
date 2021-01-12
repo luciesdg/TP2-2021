@@ -1,0 +1,3 @@
+MBP-de-lucie:TP02-2021 luciesadegmartelet$ git status
+On branch travail
+nothing to commit, working tree clean
