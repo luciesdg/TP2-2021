@@ -1,0 +1,25 @@
+MBP-de-lucie:TP02-2021 luciesadegmartelet$ git log
+commit ce0caedb1b3a7c1a783e6c0b7c99c2d44804836e (HEAD -> main)
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:39:01 2021 +0100
+
+    Creation d'un doc06
+
+commit 2a78f175ca4463ea09f5cd84de58baf29df0ba07
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:38:17 2021 +0100
+
+     Ajout contenu git status dans doc05
+
+commit e23fef2cda556ad268f6c296c1f727d13f9437b4
+Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:35:49 2021 +0100
+
+    Creation d'un doc05
+
+commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD)
+Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+Date:   Mon Jan 11 17:14:17 2021 +0100
+
+    Add files via upload
+
