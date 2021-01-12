@@ -1,0 +1,55 @@
+1c1,2
+< commit 38157ac2c548e899b5ccd2dc31d2da4fc61175d5 (HEAD -> travail)
+---
+> MBP-de-lucie:TP02-2021 luciesadegmartelet$ git log
+> commit ce0caedb1b3a7c1a783e6c0b7c99c2d44804836e (HEAD -> main)
+3c4
+< Date:   Tue Jan 12 13:40:00 2021 +0100
+---
+> Date:   Tue Jan 12 16:39:01 2021 +0100
+5c6
+<     Creation d'un doc04
+---
+>     Creation d'un doc06
+7c8
+< commit 1d8ef00fdfe8a06c4fefc44bb68c7bc9379b28f6
+---
+> commit 2a78f175ca4463ea09f5cd84de58baf29df0ba07
+9c10
+< Date:   Tue Jan 12 13:38:54 2021 +0100
+---
+> Date:   Tue Jan 12 16:38:17 2021 +0100
+11c12
+<     Ajout contenu git status dans doc03.txt
+---
+>      Ajout contenu git status dans doc05
+13c14
+< commit a0aabc5e00bbeb9cf2dc649c3dc9f2ce22e1f80e
+---
+> commit e23fef2cda556ad268f6c296c1f727d13f9437b4
+15c16
+< Date:   Tue Jan 12 13:36:14 2021 +0100
+---
+> Date:   Tue Jan 12 16:35:49 2021 +0100
+17c18
+<     Creation d'un doc03
+---
+>     Creation d'un doc05
+19,31c20
+< commit 3cda48cd0f7c2913f9d15fbb743dee6a3530c6f0
+< Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+< Date:   Tue Jan 12 13:32:49 2021 +0100
+< 
+<     Creation d'un doc02 et ajout de texte dedans
+< 
+< commit 255b3a3fc84cc1c706c69cfe91073b9230bffa97
+< Author: lucie sadeg martelet <lucie.sadeg-martelet@edu.univ-fcomte.fr>
+< Date:   Tue Jan 12 13:29:36 2021 +0100
+< 
+<     Ajout de bonjour+siganture doc01
+< 
+< commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD, main)
+---
+> commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD)
+35a25
+> 
